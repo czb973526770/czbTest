@@ -1,5 +1,4 @@
 dsdsl  si
-
-ha哈喽给czcbbb hotfix
+hyi结局人已解决
 #include<studio.c>
 

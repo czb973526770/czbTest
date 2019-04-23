@@ -1,5 +1,5 @@
 dsdsl  si
 
-ha哈喽给i他
+master..................i
 #include<studio.c>
 
